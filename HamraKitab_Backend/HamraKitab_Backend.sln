@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HamraKitab_Backend", "HamraKitab_Backend.csproj", "{0F47B9BA-44BD-4AD8-96F5-15AA6077CC46}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HamraKitab.Models", "..\HamraKitab.Models\HamraKitab.Models.csproj", "{8FD527C0-4925-4F9F-B42A-934CBA7D50DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HamraKitab.DataAccess", "..\HamraKitab.DataAccess\HamraKitab.DataAccess.csproj", "{EBDF3289-53CD-494C-9512-B20D2B1175EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HamraKitab.Utilities", "..\HamraKitab.Utilities\HamraKitab.Utilities.csproj", "{22F20B11-332F-46EF-80C2-C86515E4E1ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F47B9BA-44BD-4AD8-96F5-15AA6077CC46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F47B9BA-44BD-4AD8-96F5-15AA6077CC46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F47B9BA-44BD-4AD8-96F5-15AA6077CC46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F47B9BA-44BD-4AD8-96F5-15AA6077CC46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FD527C0-4925-4F9F-B42A-934CBA7D50DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FD527C0-4925-4F9F-B42A-934CBA7D50DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FD527C0-4925-4F9F-B42A-934CBA7D50DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FD527C0-4925-4F9F-B42A-934CBA7D50DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBDF3289-53CD-494C-9512-B20D2B1175EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBDF3289-53CD-494C-9512-B20D2B1175EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBDF3289-53CD-494C-9512-B20D2B1175EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBDF3289-53CD-494C-9512-B20D2B1175EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22F20B11-332F-46EF-80C2-C86515E4E1ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22F20B11-332F-46EF-80C2-C86515E4E1ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22F20B11-332F-46EF-80C2-C86515E4E1ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22F20B11-332F-46EF-80C2-C86515E4E1ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95E3FBD9-8C5C-4106-AF06-F3B166B6E70B}
+	EndGlobalSection
+EndGlobal

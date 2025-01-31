@@ -1,0 +1,6 @@
+@HamraKitab_Backend_HostAddress = http://localhost:5003
+
+GET {{HamraKitab_Backend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
