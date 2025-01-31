@@ -13,5 +13,7 @@ namespace HamraKitab.DataAccess.Data
         {
         }
         public DbSet<Genre> Genres { get; set; }
+        public DbSet<UserAction> UserActions { get; set; }
+
     }
 }
